@@ -1,0 +1,65 @@
+svg{
+    fill:white;
+    border-radius: 50%;
+    height: 20px;
+    width:  20px;
+}
+.mainbox{
+    gap: 5px;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lbox{gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    padding: 10px;
+
+}
+.rbox{
+    gap: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fakeimg{
+    position: relative;
+    background-color: lightblue;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+    
+}
+.bdrop{
+    border: 2px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    right: -10px;
+    bottom: -5px;
+
+}
+.drop{
+    
+    height: 10px;
+    width: 10px;
+}
+    
+button{
+    
+    background-color: gray;
+    border-radius: 50%;
+}
+
+
+.b1, .b2, .b3{
+    border: 2px;
+    height: 40px;
+    width: 40px;
+}
